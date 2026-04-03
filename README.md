@@ -1,5 +1,7 @@
  Connect 4 (Terminal Game)
+ 
 A simple Connect 4 game written in C++ that runs in the terminal.
+
 Description: This is a 2-player game where each player takes turns dropping their piece into the board.
 * Player 1 uses R
 * Player 2 uses B
